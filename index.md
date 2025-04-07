@@ -1,6 +1,6 @@
 ---
 title: About me
-description: This is a little information on myself and what I want to do in the future!
+description: This is a little introdcution of myself and what I want to do in the future!
 ---
 
 ## Samikshya P.
