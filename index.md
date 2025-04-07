@@ -5,7 +5,7 @@ description: This is a little information on myself and what I want to do in the
 
 ## Samikshya P.
 
-<img src="SiteFiles/Sami_Pahari.png" align="left" width=150>&nbsp; Student<br/>
+<img src="SiteFiles/IMG_1841.jpeg" align="left" width=150>&nbsp; Student<br/>
 &nbsp; Southern New Hampshire University <br/>
 &nbsp; &nbsp; email: samikshyapahari99@gmail.com<br/>
 &nbsp; &nbsp; [Resume](https://agmath.github.io/PagesBasic/SiteFiles/Resume/sami_resume.html)
