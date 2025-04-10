@@ -5,10 +5,13 @@ description: This is a little introdcution of myself and what I want to do in th
 
 ## Samikshya P.
 
-<img src="SiteFiles/IMG_1841.jpeg" align="left" width=150>&nbsp; Student<br/>
-&nbsp; Southern New Hampshire University <br/>
-&nbsp; &nbsp; email: samikshyapahari99@gmail.com<br/>
-&nbsp; &nbsp; [Resume](https://samikshyapahari.github.io/PagesBasic/SiteFiles/Resume/Resume.docx)
+Student<br/>
+Southern New Hampshire University <br/>
+email: samikshyapahari99@gmail.com<br/>
+[Resume](https://samikshyapahari.github.io/PagesBasic/SiteFiles/Resume/Resume.docx)
+<br/>
+<img src="SiteFiles/IMG_1841.jpeg" align="left" width=150> 
+
 
 <br/>
 <br/>
