@@ -10,7 +10,7 @@ Southern New Hampshire University <br/>
 email: samikshyapahari99@gmail.com<br/>
 [Resume](https://samikshyapahari.github.io/PagesBasic/SiteFiles/Resume/Resume.docx)
 <br/>
-<img src="SiteFiles/IMG_1841.jpeg" align="left" width=150> 
+<img src="SiteFiles/IMG_1841.jpeg" align="center" width=150> 
 
 
 <br/>
@@ -26,8 +26,19 @@ I am Samikshya Pahari and I'm currently a senior in Southern New Hampshire Unive
 
 I have been working with other group of students and professor to research about the chytrid fungus in the frogs which causes disease called chytridomycosis. Also, I worked with one of the other professor on seeing the potential use of bacteria that can produce calcium carbonate to heal the concrete. I have gained a valuable skills like pipetting, gel electrophoresis and PCR through this project. Hopefully, in the future I would be able to work in some kind of research as well!
 
-### Research Projects on Bioinformatics
+### Projects on Bioinformatics
 
-Palmer Penguins
+#### Palmer Penguins
+
+Using R code, we learned how to analyze the penguins data and manipulate the data. We also used ggplot to visualize the data using bar graph, and scatterplots to compare between two or more categorical or numerical datas. 
+
+#### Dog Breed
+
+From the dog data set, we chose top 10 popular hunting and comapnion dogs to compare if hunting dogs can be as friendly as companion dogs. Using ggplot to visualize data using scatterplot, we came into conclusion that hunting dogs could be friendlier and trained as companion dogs except for exception like Shiba Inu and Bloodhounds. 
+
+#### RNA Sequencing
+
+Using the edgeR, we analyzed the RNA-seq data from the R Bioinformatics Cookbook called modencodefly which contains the data on _Drosophila melanogaster_. We used it to see how gene is expressed differetly in two or more different samples and created the heatmap of the data. 
+
 
 
