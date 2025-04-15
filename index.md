@@ -40,9 +40,9 @@ From the dog data set, we chose top 10 popular hunting and comapnion dogs to com
 
 #### RNA Sequencing
  
-RNA Seq I: Using the edgeR, we analyzed the RNA-seq data from the R Bioinformatics Cookbook called modencodefly which contains the data on _Drosophila melanogaster_. [here](<https://samikshyapahari.github.io/BioInformatics/RNA Seq I.html>)
-RNA Seq II: Using dataset at_tf_gex, we created the heatmap of the ecotype and plant parts and see how gene is expressed differetly in two or more different samples. [here](<https://samikshyapahari.github.io/BioInformatics/RNA Seq II.html>)
-Phylogetic analysis and visualization: Creating the evolutionary tree from mammal phylogeny from dataset. [here](<https://samikshyapahari.github.io/BioInformatics/Phylogenetic analysis and Visualization>)
+RNA Seq I: Using the edgeR, we analyzed the RNA-seq data from the R Bioinformatics Cookbook called modencodefly which contains the data on _Drosophila melanogaster_. [here](<https://samikshyapahari.github.io/BioInformatics/RNA Seq I.html>) <br/>
+RNA Seq II: Using dataset at_tf_gex, we created the heatmap of the ecotype and plant parts and see how gene is expressed differetly in two or more different samples. [here](<https://samikshyapahari.github.io/BioInformatics/RNA Seq II.html>)<br/>
+Phylogetic analysis and visualization: Creating the evolutionary tree from mammal phylogeny from dataset. [here](<https://samikshyapahari.github.io/BioInformatics/Phylogenetic analysis and Visualization>)<br/>
 
 
 
