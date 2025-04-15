@@ -32,7 +32,7 @@ I have been working with another group of students and professors to research th
 
 #### Palmer Penguins
 
-Using R code, we learned how to analyze the penguins data and manipulate the data. We also used ggplot to visualize the data using bar graph, and scatterplots to compare between two or more categorical or numerical datas. 
+Using R code, we learned how to analyze the penguins data and manipulate the data. We also used ggplot to visualize the data using bar graph, and scatterplots to compare between two or more categorical or numerical datas. [here](<https://samikshyapahari.github.io/BioStatisticsAnalysis/Palmer Penguins_SP.html>)  
 
 #### Dog Breed
 
