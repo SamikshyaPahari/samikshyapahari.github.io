@@ -36,11 +36,13 @@ Using R code, we learned how to analyze the penguins data and manipulate the dat
 
 #### Dog Breed
 
-From the dog data set, we chose top 10 popular hunting and comapnion dogs to compare if hunting dogs can be as friendly as companion dogs. Using ggplot to visualize data using scatterplot, we came into conclusion that hunting dogs could be friendlier and trained as companion dogs except for exception like Shiba Inu and Bloodhounds. 
+From the dog data set, we chose top 10 popular hunting and comapnion dogs to compare if hunting dogs can be as friendly as companion dogs. Using ggplot to visualize data using scatterplot, we came into conclusion that hunting dogs could be friendlier and trained as companion dogs except for exception like Shiba Inu and Bloodhounds. [here](<https://samikshyapahari.github.io/BioStatisticsAnalysis/Dog Breed.html>)  
 
 #### RNA Sequencing
-
-Using the edgeR, we analyzed the RNA-seq data from the R Bioinformatics Cookbook called modencodefly which contains the data on _Drosophila melanogaster_. We used it to see how gene is expressed differetly in two or more different samples and created the heatmap of the data. 
+ 
+RNA Seq I: Using the edgeR, we analyzed the RNA-seq data from the R Bioinformatics Cookbook called modencodefly which contains the data on _Drosophila melanogaster_. [here](<https://samikshyapahari.github.io/BioInformatics/RNA Seq I.html>)
+RNA Seq II: Using dataset at_tf_gex, we created the heatmap of the ecotype and plant parts and see how gene is expressed differetly in two or more different samples. [here](<https://samikshyapahari.github.io/BioInformatics/RNA Seq II.html>)
+Phylogetic analysis and visualization: Creating the evolutionary tree from mammal phylogeny from dataset. [here](<https://samikshyapahari.github.io/BioInformatics/Phylogenetic analysis and Visualization>)
 
 
 
