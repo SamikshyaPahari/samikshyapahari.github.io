@@ -1,23 +1,17 @@
 ---
 title: About me
-description: This is a little introdcution of myself and what I want to do in the future! 
+description: This is a little introduction of myself and what I want to do in the future! 
 ---
 
 ## Samikshya P.
 
-Student<br/>
+Student majoring in Biology<br/>
 Southern New Hampshire University <br/>
 email: samikshyapahari99@gmail.com<br/>
 [Resume](https://samikshyapahari.github.io/PagesBasic/SiteFiles/Resume/Resume_SP.pdf)
 <br/>
 <img src="SiteFiles/IMG_1841.jpeg" align="center" width=150> 
-
-
 <br/>
-<br/>
-<br/>
-<br/>
-
 ### About Me
 
 I am Samikshya Pahari, and I'm currently a senior at Southern New Hampshire University majoring in Biology. I am originally from Kathmandu, Nepal, but I and my family moved to the U.S. in 2019. After graduating, I'm planning to pursue a healthcare career, possibly going into the medical field. Currently, at SNHU, I am working as a UGR catalyst, where, with my team, I help organize the Undergraduate Research Day event. Also, I work as a student assistant for the Global Education Movement, where I help record transcripts and diplomas of the students and mail them. I also volunteered at Dartmouth-Hitchcock, where I helped patients with directions and any other questions they might have. I had also been a part of an ESL program and volunteered to be an English teacher in Japan.
