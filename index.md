@@ -8,7 +8,7 @@ description: This is a little introduction of myself and what I want to do in th
 Student majoring in Biology<br/>
 Southern New Hampshire University <br/>
 email: samikshyapahari99@gmail.com<br/>
-[Resume](https://samikshyapahari.github.io/PagesBasic/SiteFiles/Resume/Resume_SP.pdf)
+[Resume](https://samikshyapahari.github.io/PagesBasic/SiteFiles/Resume/Resume.html)
 <br/>
 <img src="SiteFiles/IMG_1841.jpeg" align="center" width=150> 
 <br/>
